@@ -88,7 +88,7 @@ section h4{
 	margin-bottom: 45px;
 	text-align: center;
 }
-p, ul li{
+p, ul.li-article li{
 	margin-bottom: 45px;
 	font-size: 22px;
 	line-height: 40px;
@@ -97,6 +97,19 @@ section li{
 	padding-left: 25px;
 	list-style: disc;
 	list-style-position: inside;
+}
+.top{
+	font: 700 13px 'Open Sans', Arial, sans-serif;
+	color:#999;
+	width: 200px;
+	margin: 0 auto 20px;
+	text-align: center;
+	text-transform: uppercase;
+	display: block;
+}
+.top i{
+	display: block;
+	margin-bottom: 5px;
 }
 .above-footer{
 	color:#2ecc71;
@@ -135,6 +148,7 @@ section li{
 	float: left;
 	width: 50%;
 	background-size: cover;
+	background-position: 100% 100%;
 }
 .entry{
 	padding: 50px;
