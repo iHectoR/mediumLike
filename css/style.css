@@ -76,7 +76,7 @@ ul.social li:last-child{
 	margin-right: 0;
 }
 ul.social{
-	margin-top: 22px;
+	margin-top: 33px;
 	float: right;
 
 }
@@ -110,6 +110,7 @@ section li{
 .top i{
 	display: block;
 	margin-bottom: 5px;
+
 }
 .above-footer{
 	color:#2ecc71;
